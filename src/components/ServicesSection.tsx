@@ -4,21 +4,21 @@ import AnimatedSection from "./AnimatedSection";
 const services = [
   {
     icon: Wifi,
-    title: "Seamless Home Connect",
-    description: "Power your home with flawless high-speed internet. Our matching solutions remove roadblocks so you can focus on what matters—streaming, gaming, and staying connected.",
-    cta: "Discover Options →",
+    title: "Home Internet & TV",
+    description: "Get matched with the best internet and TV plans available at your address. We compare speeds, pricing, and reliability so you don't have to — and help you get connected fast.",
+    cta: "Find My Plan →",
   },
   {
     icon: Building2,
-    title: "Growth on Autopilot",
-    description: "Turn data into decisions with AI-powered connectivity strategies. We help businesses forecast needs accurately, act decisively, and scale predictably.",
-    cta: "View Solutions →",
+    title: "Business Services",
+    description: "Keep your business running with reliable internet and phone solutions. We work with small businesses and offices nationwide to find plans that fit your budget and bandwidth needs.",
+    cta: "View Business Options →",
   },
   {
     icon: Smartphone,
-    title: "Mobile Velocity",
-    description: "Compare the nation's top wireless networks with battle-tested analysis. From first touch to perfect plan, we help you accelerate without cutting corners.",
-    cta: "Compare Plans →",
+    title: "Wireless & Mobile Plans",
+    description: "Compare the top wireless carriers and find a mobile plan that works for you. Whether it's a single line or a family plan, we'll help you get the best deal available.",
+    cta: "Compare Wireless Plans →",
   },
 ];
 
@@ -34,8 +34,11 @@ const ServicesSection = () => {
           <div className="text-center mb-16">
             <p className="text-accent font-semibold text-sm tracking-widest uppercase mb-3">OUR SERVICES</p>
             <h2 className="font-heading text-3xl md:text-4xl font-bold text-foreground mb-4">
-              Accelerate Connectivity At<br />Lightning Speed
+              Internet, TV & Wireless —<br />All In One Place
             </h2>
+            <p className="text-muted-foreground max-w-xl mx-auto">
+              Serving customers across all 50 states. Tell us your address and we'll show you exactly what's available in your area.
+            </p>
           </div>
         </AnimatedSection>
 

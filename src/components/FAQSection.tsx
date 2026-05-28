@@ -4,20 +4,24 @@ import AnimatedSection from "./AnimatedSection";
 
 const faqs = [
   {
-    q: "How does NationWave's matching service integrate with my needs?",
-    a: "We embed seamlessly into your search—analyzing your address, usage patterns, and budget to match you with the ideal provider. Regular follow-ups ensure continued satisfaction.",
+    q: "What services does NationWave help me find?",
+    a: "We help residential and business customers find the best internet, TV, and wireless plans available at their address. Whether you need high-speed home internet, a TV package, or a mobile plan, our team will walk you through all your options and help you get set up.",
   },
   {
-    q: "What about my data security and privacy?",
-    a: "We follow strict privacy protocols and NDAs. Your personal information is never shared with third parties beyond your chosen provider. All data handling meets industry compliance standards.",
+    q: "Is there any cost to use NationWave's service?",
+    a: "No — our service is completely free to you. We're compensated by the providers when you sign up through us, so you pay nothing extra. You get the same pricing as going direct, plus personalized support.",
   },
   {
-    q: "Is this affordable for all households?",
-    a: "Our consultation service is completely free to you. We're compensated by providers when you connect through us, so there's never any additional cost on your end.",
+    q: "What areas do you serve?",
+    a: "We serve customers across the entire United States. Whether you're in a major city or a rural area, we can help you find internet, TV, and wireless options available at your specific address.",
   },
   {
-    q: "Can I switch providers after connecting?",
-    a: "Absolutely—our concierge team is available anytime you need to re-evaluate your options. We'll run a fresh comparison to find the best current deal.",
+    q: "How do I get started?",
+    a: "Simply fill out the form on this page with your name, phone number, and service address. One of our team members will reach out shortly to go over your options and help you find the best plan for your needs.",
+  },
+  {
+    q: "Can you help businesses too?",
+    a: "Absolutely. We work with small businesses, offices, and multi-location companies to find reliable internet and communication solutions. Our team will make sure you get the speed and reliability your operations demand.",
   },
 ];
 

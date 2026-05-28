@@ -5,26 +5,26 @@ import AnimatedSection from "./AnimatedSection";
 const testimonials = [
   {
     name: "James Whitmore",
-    role: "Homeowner, Sugar Land",
-    quote: "NationWave's connectivity matching helped us find fiber we didn't even know was available in our neighborhood. We went from 50 Mbps to 1 Gbps and saved $30/month. Incredible service.",
+    role: "Homeowner, Sugar Land TX",
+    quote: "I had no idea there were faster options in my area until NationWave reached out. They got me set up with a new internet plan that's twice as fast and cheaper than what I was paying. Super easy process.",
     avatar: "JW",
   },
   {
     name: "Priya Kapoor",
-    role: "Small Business Owner, Richmond",
-    quote: "From struggling with dropped calls to enterprise-grade connectivity—NationWave transformed our entire business communication stack. The consultation alone saved us hours of research.",
+    role: "Small Business Owner, Richmond TX",
+    quote: "Running a business means I can't afford bad internet or dropped calls. NationWave helped me find a plan that actually fits what I need. They handled everything and I was up and running in no time.",
     avatar: "PK",
   },
   {
     name: "Marcus DeLeon",
-    role: "Property Manager, Fort Bend",
-    quote: "After implementing NationWave's recommendations across 12 properties, we reduced connectivity costs by 35% while increasing tenant satisfaction. The ROI was immediate.",
+    role: "Homeowner, Houston TX",
+    quote: "I was overpaying for my TV and internet bundle for years. NationWave showed me better options and helped me switch. Saved me money every month and the new service is way better.",
     avatar: "MD",
   },
   {
     name: "Sophie Beaumont",
-    role: "Remote Worker, Katy",
-    quote: "Working from home required rock-solid internet. NationWave found me a dedicated line I didn't know existed. Zero downtime in 6 months. Worth every second of the free consultation.",
+    role: "Remote Worker, Katy TX",
+    quote: "Working from home I need reliable internet every single day. NationWave found me a plan with the speeds I needed and made the whole switch painless. Haven't had a single issue since.",
     avatar: "SB",
   },
 ];
