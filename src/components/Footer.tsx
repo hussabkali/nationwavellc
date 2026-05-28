@@ -18,14 +18,6 @@ const Footer = () => (
             </a>
           ))}
         </div>
-        {/* Social icons */}
-        <div className="flex items-center gap-3">
-          {["Facebook", "Instagram", "Twitter", "LinkedIn"].map((social) => (
-            <a key={social} href="#" aria-label={social} className="w-8 h-8 rounded-full border border-primary-foreground/20 flex items-center justify-center text-primary-foreground/50 hover:text-primary-foreground hover:border-primary-foreground/40 transition-colors">
-              <span className="text-xs font-semibold">{social[0]}</span>
-            </a>
-          ))}
-        </div>
       </div>
 
       <div className="border-t border-primary-foreground/10 pt-6">
